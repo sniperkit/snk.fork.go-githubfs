@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // Copyright © 2015 Steve Francia <spf@spf13.com>.
 // Copyright 2013 tsuru authors. All rights reserved.
 //

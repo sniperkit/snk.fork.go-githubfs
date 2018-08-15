@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package main
 
 import (
@@ -6,8 +11,9 @@ import (
 	"os"
 
 	"github.com/google/go-github/github"
-	"github.com/progrium/go-githubfs"
 	"golang.org/x/oauth2"
+
+	"github.com/sniperkit/snk.fork.go-githubfs"
 )
 
 func main() {
